@@ -52,9 +52,9 @@ Just someone trying to navigate the world of programming without crashing out. N
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germineye &show_icons=true &theme=radical &hide_border=true &border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germineye&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germineye &layout=compact &theme=radical &hide_border=true &border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germineye&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 
 </div>
 
