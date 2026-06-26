@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Say%20wallahi%20bro-231B1B?style=for-the-badge&labelColor=FFB7C5&logoColor=231B1B" />
 
-  <h1>Wassup 👋 Welcome to my hood</h1>
-
   <br>
   <img src="https://komarev.com/ghpvc/?username=germineye&color=FFB7C5" />
 
@@ -27,11 +25,11 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-Just someone trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error and some nootropics.
+Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error and some nootropics.
 
-* **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering), one bug at a time.
-* **Recent Experiment:** Built an LLM-based paraphrase web app. (kinda impractical since it asks users to input their own API key🥀💔)
-
+* **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering).
+* **Recent Experiment:** Upgraded my LLM-based paraphrase web app to support **Local Mode** using Chrome Built-in AI (Gemini Nano).
+ 
 ---
 
 ### 🧰 Tech Stack
@@ -56,10 +54,4 @@ Just someone trying to navigate the world of programming without crashing out. N
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germineye&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=231B1B&secondaryColor=FFB7C5&height=100&section=footer"/>
 </div>
