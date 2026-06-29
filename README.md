@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Say%20wallahi%20bro-231B1B?style=for-the-badge&labelColor=FFB7C5&logoColor=231B1B" />
-
-  <br>
   <img src="https://komarev.com/ghpvc/?username=germineye&color=FFB7C5" />
 
 </div>
