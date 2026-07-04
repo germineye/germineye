@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error and some nootropics.
+Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error.
 
 * **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering).
 * **Recent Experiment:** Upgraded my LLM-based paraphrase web app to support **Local Mode** using Chrome Built-in AI (Gemini Nano).
@@ -39,16 +39,4 @@ Trying to navigate the world of programming without crashing out. No academic br
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,github,visualstudio" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germineye&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germineye&layout=compact&theme=radical&hide_border=true&border_radius=10" />
-
 </div>
