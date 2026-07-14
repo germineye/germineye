@@ -12,21 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=germineye&color=FFB7C5" />
-
-</div>
-
----
-
 ### 🧠 About Me
 
 Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error.
 
 * **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering).
 * **Recent Experiment:** Upgraded my LLM-based paraphrase web app to support **Local Mode** using Chrome Built-in AI (Gemini Nano).
- 
+
 ---
 
 ### 🧰 Tech Stack
@@ -39,4 +31,12 @@ Trying to navigate the world of programming without crashing out. No academic br
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,github,visualstudio" />
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=germineye&color=FFB7C5" />
+
 </div>
