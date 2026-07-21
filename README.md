@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error.[cite: 1]
+Trying to navigate the world of programming without crashing out. No academic breakthroughs here, just a lot of trial and error.
 
-* **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering).[cite: 1]
-* **Recent Experiment:** Upgraded my LLM-based paraphrase web app to support **Local Mode** using Chrome Built-in AI (Gemini Nano).[cite: 1]
+* **Current State:** Figuring out how stuff works (also known by the fancy name of reverse engineering).
+* **Recent Experiment:** Upgraded my LLM-based paraphrase web app to support **Local Mode** using Chrome Built-in AI (Gemini Nano).
 
 ---
 
